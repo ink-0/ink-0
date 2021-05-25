@@ -1,8 +1,11 @@
+# Hi I'm `Tami`
 ### To be a FE developer 🖥
-![열공타미2 복사본](https://user-images.githubusercontent.com/71919983/119519868-c2821500-bdb4-11eb-9f3b-071dc67c07c1.png) Hi I'm `Tami`. 
+![열공타미2 복사본](https://user-images.githubusercontent.com/71919983/119519868-c2821500-bdb4-11eb-9f3b-071dc67c07c1.png)  
 
+```
 I am fascinated by FE --> ability to communicate with users.  
 These days, I try to make the rules and culture of my team.
+```
 
 ### 📌 Github status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ink-0&count_private=true&show_icons=true?username=ink0-&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
