@@ -8,8 +8,8 @@ These days, I try to make the rules and culture of my team💙
 ```
 
 ### TamiLog
-<a href="https://velog.io/@tami"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat&logo=Vimeo&logoColor=white"/></a>
 <a href="https://rrecoder.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a>
+<a href="https://velog.io/@tami"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat&logo=Vimeo&logoColor=white"/></a>
 
 
 ### Skills
