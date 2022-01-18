@@ -1,19 +1,33 @@
 # Hi I'm `Tami`
-### To be a FE developer 🖥
-![열공타미2 복사본](https://user-images.githubusercontent.com/71919983/119519868-c2821500-bdb4-11eb-9f3b-071dc67c07c1.png)  
+![열공타미2 복사본](https://user-images.githubusercontent.com/71919983/119519868-c2821500-bdb4-11eb-9f3b-071dc67c07c1.png)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2317C311&size=22&center=true&lines=To+be+a+flexible+Frontender++%7C+)](https://git.io/typing-svg)
+
 
 ```
-I am fascinated by FE --> ability to communicate with users.  
-These days, I try to make the rules and culture of my team.
+I am fascinated by (FE) => ability to communicate with users;
+These days, I try to make the rules and culture of my team💙
 ```
 
-### 📌 Github status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ink-0&count_private=true&show_icons=true?username=ink0-&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### TamiLog
+<a href="https://velog.io/@tami"><img src="https://img.shields.io/badge/Velog-34E0A1?style=flat&logo=Vimeo&logoColor=white"/></a>
+<a href="https://rrecoder.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a>
 
-### 📌 Skills
-<image src="https://user-images.githubusercontent.com/71919983/119522585-0ece5480-bdb7-11eb-99cf-dbcefc3e5382.png" height='50' width='37'><image src="https://user-images.githubusercontent.com/71919983/119520250-17be2680-bdb5-11eb-8b8d-a099bb185347.png" height='50' width='50'><image src="https://user-images.githubusercontent.com/71919983/119522118-af704480-bdb6-11eb-99c7-f8a671b7606e.png" height='48'><image src="https://user-images.githubusercontent.com/71919983/119522723-2ad1f600-bdb7-11eb-8dd0-2396c0daff4e.png" height='40'><image src="https://user-images.githubusercontent.com/71919983/119523195-87351580-bdb7-11eb-8762-e2cad11111ba.png" height='40'><image src="https://user-images.githubusercontent.com/71919983/119524034-38d44680-bdb8-11eb-97b7-5da1ebf6e51a.png" height='40'>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ink-0&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/styled-DB7093?style=flat&logo=styled-components&logoColor=white"/></a>
+
+### Github status
+
+![ink-0 overview](https://github.com/ink-0/github-stats-transparent/blob/output/generated/overview.svg)
+![ink-0 languages](https://github.com/ink-0/github-stats-transparent/blob/output/generated/languages.svg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fink-0&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+📮 [always contact me by Mail](mailto:dksud27@naver.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 
 <!--
 **ink-0/ink-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
